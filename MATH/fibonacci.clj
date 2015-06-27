@@ -1,2 +1,1 @@
-(defn fibs []
-  (map first (iterate (fn [[a b]] [b (+ a b)]) [0 1])))
+(def fib (lazy-cat [0 1] (map + fib (rest fib))))
