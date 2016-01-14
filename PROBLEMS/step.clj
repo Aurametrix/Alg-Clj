@@ -1,12 +1,8 @@
-;; the initial level
-(def level (atom 41))
- 
-;; the probability of success
-(def prob 0.5001)
- 
- 
-(defn step
+(defn step-up1
+  "Straightforward implementation: keep track of how many level we
+   need to ascend, and stop when this count is zero."
   []
-  (let [success (< (rand) prob)]
-    (swap! level (if success inc dec))
-    success) )
+  (loop [deficit 1]
+    (or (zero? deficit)
+	(recur (if (step) (dec deficit)
+		   (inc deficit)))) ) ) )
