@@ -1,0 +1,13 @@
+(defmacro get-in*
+  "Macro version of clojure.core/get-in without not-found fallback"
+  [root path]
+  (loop [root root, path path]
+    (if path
+      (recur `(get ~root ~(first path)) (next path))
+      root)))
+
+(macroexpand-1 '(get-in* [[1 2 3] [3 4 [5 6 7 8]]] [1 2 3]))
+;; (clojure.core/get (clojure.core/get (clojure.core/get [[1 2 3] [3 4 [5 6 7 8]]] 1) 2) 3)
+
+(get-in* [[1 2 3] [3 4 [5 6 7 8]]] [1 2 3])
+;; 8
