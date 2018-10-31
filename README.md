@@ -23,3 +23,7 @@ or
 
 
 + [Cloud IDE](http://nightcoders.net/) - [github](https://github.com/oakes/Nightcoders.net)
+
+### Misc
+
++ [Clojure at Netflix](https://speakerdeck.com/daveray/clojure-at-netflix)
