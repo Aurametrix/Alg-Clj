@@ -27,3 +27,5 @@ or
 ### Misc
 
 + [Clojure at Netflix](https://speakerdeck.com/daveray/clojure-at-netflix)
+
++ [Clojure for Erlang](https://github.com/clojerl/clojerl)
