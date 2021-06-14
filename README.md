@@ -29,3 +29,5 @@ or
 + [Clojure at Netflix](https://speakerdeck.com/daveray/clojure-at-netflix)
 
 + [Clojure for Erlang](https://github.com/clojerl/clojerl)
+
++ [Tetris](https://shaunlebron.github.io/t3tr0s-slides/#0) in Clojurescript
