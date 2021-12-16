@@ -30,5 +30,7 @@ or
 
 + [Clojure for Erlang](https://github.com/clojerl/clojerl)
 
++ [Clojure Macros and Metaprogramming](https://clojure-doc.github.io/articles/language/macros/)
+
 + [Tetris](https://shaunlebron.github.io/t3tr0s-slides/#0) in Clojurescript
 + [Clerk](https://github.com/nextjournal/clerk) - notebook for clj
