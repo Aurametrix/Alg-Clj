@@ -29,6 +29,7 @@ or
 + [Clojure at Netflix](https://speakerdeck.com/daveray/clojure-at-netflix)
 
 + [Clojure for Erlang](https://github.com/clojerl/clojerl)
++ [deep code-walking macros](https://blog.fogus.me/2013/07/17/an-introduction-to-deep-code-walking-macros-with-clojure/)
 
 + [Clojure Macros and Metaprogramming](https://clojure-doc.github.io/articles/language/macros/)
 
