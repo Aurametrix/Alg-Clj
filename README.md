@@ -38,3 +38,4 @@ or
 + [Tetris](https://shaunlebron.github.io/t3tr0s-slides/#0) in Clojurescript
 + [Clerk](https://github.com/nextjournal/clerk) - notebook for clj
 + [Physics in Clojure](https://www.loom.com/share/08a7103f338c437b88ec0fecfcd99922); [code](https://github.com/sicmutils/sicmutils)
++ [Is Clojure dead?](https://news.ycombinator.com/item?id=33018037) - 9/29/2022
