@@ -42,3 +42,4 @@ or
 + [Is Clojure dead?](https://news.ycombinator.com/item?id=33018037) - 9/29/2022
 + [Symbolic programming](https://www.cs.utexas.edu/users/novak/cs378.pdf) // [official course website](https://www.cs.utexas.edu/users/novak/cs378.html)
 + [Clojure Plays Mario](https://blog.phronemophobic.com/mairio.html)
++ [Data-Driven Development is a Lie](https://grishaev.me/en/ddd-lie)
