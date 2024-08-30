@@ -31,6 +31,7 @@ or
 + [Analyzing Every Clojure Project on Github](https://blog.phronemophobic.com/dewey-analysis.html)
 + [Most popular Clojure projects on LibHunt](https://www.libhunt.com/l/clojure)
 + [Clojure at Netflix](https://speakerdeck.com/daveray/clojure-at-netflix)
++ [Google Clojure Library](https://github.com/google/closure-library)
 
 + [Clojure for Erlang](https://github.com/clojerl/clojerl)
 + [Clojure Deref](https://clojure.org/news/2023/10/06/deref)
