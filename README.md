@@ -38,6 +38,7 @@ or
 + [deep code-walking macros](https://blog.fogus.me/2013/07/17/an-introduction-to-deep-code-walking-macros-with-clojure/)
 
 + [Clojure Macros and Metaprogramming](https://clojure-doc.github.io/articles/language/macros/)
++ [Clojure Interpreter hosted on Go](https://github.com/glojurelang/glojure)
 + [Rama](https://blog.redplanetlabs.com/2024/04/30/rama-is-a-testament-to-the-power-of-clojure/)
 
 + [Tetris](https://shaunlebron.github.io/t3tr0s-slides/#0) in Clojurescript
