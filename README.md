@@ -50,6 +50,9 @@ or
 + [Data-Driven Development is a Lie](https://grishaev.me/en/ddd-lie)
 + [Method Values](https://blog.fogus.me/2024/08/19/on-method-values-part-1/)
 + [Array Languages for Clojurians](http://www.appliedscience.studio/articles/array-programming-for-clojurists.html)
++ [open source Clojure libraries](https://clojure.land/)
+### Other
++ [D-lang for diagrams](https://d2lang.com/tour/intro/)
 
 ### New Releases
 [1.12.0](https://clojure.org/news/2024/09/05/clojure-1-12-0)
